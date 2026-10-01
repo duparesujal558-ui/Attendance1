@@ -8,7 +8,7 @@
  * Offline still works — with no network the cached copy is served, so a
  * classroom with no signal can still take attendance.
  */
-var CACHE = 'att-v3-1';
+var CACHE = 'att-v3-2';
 var SHELL = ['./','./index.html','./manifest.json','./icon-192.png',
              './icon-512.png','./icon-maskable-512.png','./apple-touch-icon.png'];
 
